@@ -1,4 +1,4 @@
-++++++++++# Deep Learning Projects
+# Deep Learning Projects
 ## 1.BERT
 In this project I have implemented BERT pretrained model using tensorflow and transformer library on commonlit readability kaggle dataset to predict
 reading ease or complexity with a loss of 0.32 and validation loss of 0.67. [link](https://youtu.be/UirtGMGKXjA) for project explaination.
