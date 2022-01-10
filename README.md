@@ -9,3 +9,4 @@ In this project DNN model with convolution layer is built to classify disease an
 ## 3. Voice Assistant 
 This is a simple voice assistant which uses google api to interconvert text and speech to take commands and deliver the information. Through this we can hear a short information about anything from wikipedia and also we can control music, get time and date know the system status. also we can shutdown or restart the system only using voice commands
 
+## 4. Arecanut Disease Classifier
